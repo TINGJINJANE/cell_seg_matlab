@@ -13,6 +13,7 @@ c) Aligned each cell contour using scale, rotation, translation.
 d) After mapping all the cell to the shape prior set.  Assuming that cell with associated distance map function can be approximately represented  as a linear compositoin of aligned spare shape priors in the prior shape set. 
 
 
+##### 2. Level set functinal formulation
 
 
  
